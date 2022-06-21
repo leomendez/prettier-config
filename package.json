@@ -1,5 +1,5 @@
 {
-  "name": "@asce/prettier-config",
+  "name": "@asce-dev/prettier-config",
   "version": "1.0.0",
   "description": "Personal prettier config",
   "main": "index.js",
