@@ -1,0 +1,16 @@
+{
+  "name": "@asce/prettier-config",
+  "version": "1.0.0",
+  "description": "Personal prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomendez/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Leo Mendez",
+  "license": "MIT",
+  "homepage": "https://github.com/leomendez/prettier-config#readme"
+}
