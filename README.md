@@ -7,7 +7,7 @@ Personal prettier config
 **Install**:
 
 ```bash
-$ npm i -D asce/prettier-config
+$ npm i -D @asce/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ $ npm i -D asce/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@asce/prettier-config"
 }
 ```
